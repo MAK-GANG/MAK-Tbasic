@@ -72,7 +72,7 @@ if mo == '1':
   os.system ("apt install proot -y")
   os.system ("apt install java -y")
   os.system ("apt install figlet -y")
-  os.system('xdg-open https://www.facebook.com/Md.Moajjem.Hossen.4O4')
+  os.system('xdg-open https://www.facebook.com/mursalinahamedkhanalin')
   os.system('clear')
   print(logo2)
   print('All Basic Pkg Install successful\n')
